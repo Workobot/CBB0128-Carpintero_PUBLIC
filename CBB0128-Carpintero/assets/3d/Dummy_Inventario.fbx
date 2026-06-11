@@ -6,13 +6,13 @@ FBXHeaderExtension:  {
 	FBXVersion: 7700
 	CreationTimeStamp:  {
 		Version: 1000
-		Year: 2025
-		Month: 9
-		Day: 1
-		Hour: 18
-		Minute: 28
-		Second: 31
-		Millisecond: 203
+		Year: 2026
+		Month: 6
+		Day: 11
+		Hour: 10
+		Minute: 44
+		Second: 33
+		Millisecond: 459
 	}
 	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
 	OtherFlags:  {
@@ -76,7 +76,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 1403717639360, "Scene", "Scene" {
+	Document: 2417433988944, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -221,7 +221,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 1399296463856, "Geometry::Scene", "Mesh" {
+	Geometry: 2418612089616, "Geometry::Scene", "Mesh" {
 		Vertices: *24 {
 			a: -50,-50,50,50,-50,50,-50,50,50,50,50,50,-50,50,-50,50,50,-50,-50,-50,-50,50,-50,-50
 		} 
@@ -330,7 +330,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 1381026241776, "Model::Dummy_Inventario", "Null" {
+	Model: 2416877263920, "Model::Dummy_Inventario", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -341,7 +341,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 1381026247776, "Model::Cube", "Mesh" {
+	Model: 2416877281920, "Model::Cube", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -356,7 +356,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398580153392, "Model::Cube__1_", "Mesh" {
+	Model: 2416877287920, "Model::Cube__1_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -371,7 +371,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398580155392, "Model::Cube__2_", "Mesh" {
+	Model: 2416877293920, "Model::Cube__2_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -386,7 +386,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1389947179872, "Model::Cube__3_", "Mesh" {
+	Model: 2416877289920, "Model::Cube__3_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -401,7 +401,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398540410320, "Model::Cube__4_", "Mesh" {
+	Model: 2416877283920, "Model::Cube__4_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -409,14 +409,14 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-37748.8403320312,1353.70998382568,92479.6813964844
+			P: "Lcl Translation", "Lcl Translation", "", "A",-37748.8403320312,1101.58996582031,92479.6813964844
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-0,25.6385803222656,0
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",62.2388687133789,17.7268104553223,14.8102645874023
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",62.2388687133789,12.6835327148438,14.8102645874023
 		}
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398540406320, "Model::Cube__5_", "Mesh" {
+	Model: 2416877285920, "Model::Cube__5_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -431,7 +431,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398540408320, "Model::Cube__6_", "Mesh" {
+	Model: 2416877279920, "Model::Cube__6_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -446,7 +446,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398540402320, "Model::Cube__7_", "Mesh" {
+	Model: 2416877291920, "Model::Cube__7_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -461,7 +461,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398540400320, "Model::Cube__8_", "Mesh" {
+	Model: 2416877295920, "Model::Cube__8_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -476,7 +476,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 1398540414320, "Model::Cube__9_", "Mesh" {
+	Model: 2413035259024, "Model::Cube__9_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -491,7 +491,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 1390244329712, "Material::DefaultHDMaterial", "" {
+	Material: 2413206207040, "Material::DefaultHDMaterial", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -513,97 +513,97 @@ Objects:  {
 Connections:  {
 	
 	;Model::Dummy_Inventario, Model::RootNode
-	C: "OO",1381026241776,0
+	C: "OO",2416877263920,0
 	
 	;Model::Cube, Model::Dummy_Inventario
-	C: "OO",1381026247776,1381026241776
+	C: "OO",2416877281920,2416877263920
 	
 	;Model::Cube__1_, Model::Dummy_Inventario
-	C: "OO",1398580153392,1381026241776
+	C: "OO",2416877287920,2416877263920
 	
 	;Model::Cube__2_, Model::Dummy_Inventario
-	C: "OO",1398580155392,1381026241776
+	C: "OO",2416877293920,2416877263920
 	
 	;Model::Cube__3_, Model::Dummy_Inventario
-	C: "OO",1389947179872,1381026241776
+	C: "OO",2416877289920,2416877263920
 	
 	;Model::Cube__4_, Model::Dummy_Inventario
-	C: "OO",1398540410320,1381026241776
+	C: "OO",2416877283920,2416877263920
 	
 	;Model::Cube__5_, Model::Dummy_Inventario
-	C: "OO",1398540406320,1381026241776
+	C: "OO",2416877285920,2416877263920
 	
 	;Model::Cube__6_, Model::Dummy_Inventario
-	C: "OO",1398540408320,1381026241776
+	C: "OO",2416877279920,2416877263920
 	
 	;Model::Cube__7_, Model::Dummy_Inventario
-	C: "OO",1398540402320,1381026241776
+	C: "OO",2416877291920,2416877263920
 	
 	;Model::Cube__8_, Model::Dummy_Inventario
-	C: "OO",1398540400320,1381026241776
+	C: "OO",2416877295920,2416877263920
 	
 	;Model::Cube__9_, Model::Dummy_Inventario
-	C: "OO",1398540414320,1381026241776
+	C: "OO",2413035259024,2416877263920
 	
 	;Material::DefaultHDMaterial, Model::Cube
-	C: "OO",1390244329712,1381026247776
+	C: "OO",2413206207040,2416877281920
 	
 	;Geometry::Scene, Model::Cube
-	C: "OO",1399296463856,1381026247776
+	C: "OO",2418612089616,2416877281920
 	
 	;Material::DefaultHDMaterial, Model::Cube__1_
-	C: "OO",1390244329712,1398580153392
+	C: "OO",2413206207040,2416877287920
 	
 	;Geometry::Scene, Model::Cube__1_
-	C: "OO",1399296463856,1398580153392
+	C: "OO",2418612089616,2416877287920
 	
 	;Material::DefaultHDMaterial, Model::Cube__2_
-	C: "OO",1390244329712,1398580155392
+	C: "OO",2413206207040,2416877293920
 	
 	;Geometry::Scene, Model::Cube__2_
-	C: "OO",1399296463856,1398580155392
+	C: "OO",2418612089616,2416877293920
 	
 	;Material::DefaultHDMaterial, Model::Cube__3_
-	C: "OO",1390244329712,1389947179872
+	C: "OO",2413206207040,2416877289920
 	
 	;Geometry::Scene, Model::Cube__3_
-	C: "OO",1399296463856,1389947179872
+	C: "OO",2418612089616,2416877289920
 	
 	;Material::DefaultHDMaterial, Model::Cube__4_
-	C: "OO",1390244329712,1398540410320
+	C: "OO",2413206207040,2416877283920
 	
 	;Geometry::Scene, Model::Cube__4_
-	C: "OO",1399296463856,1398540410320
+	C: "OO",2418612089616,2416877283920
 	
 	;Material::DefaultHDMaterial, Model::Cube__5_
-	C: "OO",1390244329712,1398540406320
+	C: "OO",2413206207040,2416877285920
 	
 	;Geometry::Scene, Model::Cube__5_
-	C: "OO",1399296463856,1398540406320
+	C: "OO",2418612089616,2416877285920
 	
 	;Material::DefaultHDMaterial, Model::Cube__6_
-	C: "OO",1390244329712,1398540408320
+	C: "OO",2413206207040,2416877279920
 	
 	;Geometry::Scene, Model::Cube__6_
-	C: "OO",1399296463856,1398540408320
+	C: "OO",2418612089616,2416877279920
 	
 	;Material::DefaultHDMaterial, Model::Cube__7_
-	C: "OO",1390244329712,1398540402320
+	C: "OO",2413206207040,2416877291920
 	
 	;Geometry::Scene, Model::Cube__7_
-	C: "OO",1399296463856,1398540402320
+	C: "OO",2418612089616,2416877291920
 	
 	;Material::DefaultHDMaterial, Model::Cube__8_
-	C: "OO",1390244329712,1398540400320
+	C: "OO",2413206207040,2416877295920
 	
 	;Geometry::Scene, Model::Cube__8_
-	C: "OO",1399296463856,1398540400320
+	C: "OO",2418612089616,2416877295920
 	
 	;Material::DefaultHDMaterial, Model::Cube__9_
-	C: "OO",1390244329712,1398540414320
+	C: "OO",2413206207040,2413035259024
 	
 	;Geometry::Scene, Model::Cube__9_
-	C: "OO",1399296463856,1398540414320
+	C: "OO",2418612089616,2413035259024
 }
 ;Takes section
 ;----------------------------------------------------
